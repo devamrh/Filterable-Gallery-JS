@@ -12,3 +12,8 @@
 
 1. If you click on the buttons the images will be filtered using the javascript function.
 2. The function works with the html field, it gets the html elements and impleament according to it.
+
+
+# N:B:
+
+-- You will get the best view using Google Chrome.
